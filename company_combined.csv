@@ -1,0 +1,10 @@
+emp_id,name,salary,city,department,manager,sale_amount,sale_month
+1,Ravi,40000,Surat,Sales,Rohan,15000.0,Jan
+1,Ravi,40000,Surat,Sales,Rohan,18000.0,Feb
+2,Priya,60000,Pune,IT,Meera,25000.0,Jan
+3,Aman,45000,Surat,Sales,Rohan,12000.0,Jan
+3,Aman,45000,Surat,Sales,Rohan,20000.0,Feb
+4,Neha,55000,Mumbai,IT,Meera,22000.0,Jan
+5,Kabir,30000,Pune,HR,Vikram,,
+6,Sara,42000,Surat,Sales,Rohan,16000.0,Jan
+6,Sara,42000,Surat,Sales,Rohan,17000.0,Feb
